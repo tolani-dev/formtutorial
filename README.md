@@ -1,4 +1,5 @@
 # formtutorial
+<<<<<<< HEAD
 Before we install Node.js, let's check if Homebrew, a popular package manager, is installed on your system. Type the following command and hit Enter:
 
 ```bash
@@ -103,3 +104,28 @@ Add the following scripts to your package.json file:
 Replace src/assets/css/tailwind.css with the correct path if you used a different one.
 
 N.B Check the official webpage for a proper understanding
+=======
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> 3a111df (init)
